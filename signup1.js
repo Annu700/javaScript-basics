@@ -6,7 +6,7 @@ var email = "annu34@gmail.com";
 var password = "12345";
 var confirmPassword = "12345";
 var courseCount = 0;
-var isLoggedInFromGoogle = false;
+var isLoggedInFromGoogle = true;
 
 //if you want to take name from user...
 //FullName = prompt("Enter your name");
