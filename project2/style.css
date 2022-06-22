@@ -1,0 +1,38 @@
+.color-hovar{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.red {
+    border: 2px solid black;
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    
+}
+.cyan {
+    border: 2px solid black;
+    width: 100px;
+    height: 30px;
+    background-color: cyan;
+}
+.violet {
+    border: 2px solid black;
+    width: 100px;
+    height: 30px;
+    background-color: violet;
+}
+.orange {
+    border: 2px solid black;
+    width: 100px;
+    height: 30px;
+    background-color: orange;
+}
+.pink {
+    border: 2px solid black;
+    width: 100px;
+    height: 30px;
+    background-color: pink;
+}/*
+
